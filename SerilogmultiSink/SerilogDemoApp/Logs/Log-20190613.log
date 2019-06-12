@@ -1,0 +1,5 @@
+2019-06-13 02:22:05.142 +05:30 [Error] Index was called-Error
+2019-06-13 02:23:13.102 +05:30 [Error] Error in Privacy
+System.Exception: error thrown
+   at SerilogDemoApp.Controllers.HomeController.Privacy() in f:\Working Class Hero\EASec\R&D\Serilog\SerilogmultiSink\SerilogDemoApp\Controllers\HomeController.cs:line 29
+2019-06-13 02:23:14.225 +05:30 [Error] Index was called-Error

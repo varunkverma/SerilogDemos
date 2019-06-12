@@ -1,0 +1,26 @@
+2019-06-13 00:14:07.168 +05:30 [Information] User profile is available. Using '"C:\Users\varun\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-06-13 00:14:26.015 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2019-06-13 00:14:26.039 +05:30 [Information] Executing endpoint '"SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)"'
+2019-06-13 00:14:26.046 +05:30 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "SerilogDemoApp.Controllers.HomeController" ("SerilogDemoApp").
+2019-06-13 00:14:26.054 +05:30 [Information] Executing action method "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)" - Validation state: Valid
+2019-06-13 00:14:26.054 +05:30 [Information] Index was called-Info
+2019-06-13 00:14:26.056 +05:30 [Information] Executed action method "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.8497ms.
+2019-06-13 00:14:26.071 +05:30 [Information] Executing ViewResult, running view "Index".
+2019-06-13 00:14:26.153 +05:30 [Information] Executed ViewResult - view "Index" executed in 93.2115ms.
+2019-06-13 00:14:26.153 +05:30 [Information] Executed action "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)" in 106.0554ms
+2019-06-13 00:14:26.154 +05:30 [Information] Executed endpoint '"SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)"'
+2019-06-13 00:14:26.158 +05:30 [Information] Request finished in 143.0739ms 200 text/html; charset=utf-8
+2019-06-13 00:14:26.181 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2019-06-13 00:14:26.189 +05:30 [Information] Sending file. Request path: '"/favicon.ico"'. Physical path: '"F:\Working Class Hero\EASec\R&D\Serilog\SerilogDemoApp\wwwroot\favicon.ico"'
+2019-06-13 00:14:26.190 +05:30 [Information] Request finished in 9.3082ms 200 image/x-icon
+2019-06-13 00:14:28.295 +05:30 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2019-06-13 00:14:28.295 +05:30 [Information] Executing endpoint '"SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)"'
+2019-06-13 00:14:28.296 +05:30 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "SerilogDemoApp.Controllers.HomeController" ("SerilogDemoApp").
+2019-06-13 00:14:28.296 +05:30 [Information] Executing action method "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)" - Validation state: Valid
+2019-06-13 00:14:28.296 +05:30 [Information] Index was called-Info
+2019-06-13 00:14:28.296 +05:30 [Information] Executed action method "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.1126ms.
+2019-06-13 00:14:28.297 +05:30 [Information] Executing ViewResult, running view "Index".
+2019-06-13 00:14:28.299 +05:30 [Information] Executed ViewResult - view "Index" executed in 2.2786ms.
+2019-06-13 00:14:28.299 +05:30 [Information] Executed action "SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)" in 2.8024ms
+2019-06-13 00:14:28.299 +05:30 [Information] Executed endpoint '"SerilogDemoApp.Controllers.HomeController.Index (SerilogDemoApp)"'
+2019-06-13 00:14:28.299 +05:30 [Information] Request finished in 3.9267ms 200 text/html; charset=utf-8

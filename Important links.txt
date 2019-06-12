@@ -1,0 +1,9 @@
+multiple sinks:
+https://stackoverflow.com/questions/54123929/unable-to-start-multiple-serilog-sinks-from-asp-net-core-website-hosted-in-windo
+
+sql server sink:
+https://www.carlrippon.com/asp-net-core-logging-with-serilog-and-sql-server/
+http://hamidmosalla.com/2018/02/15/asp-net-core-2-logging-with-serilog-and-microsoft-sql-server-sink/
+
+multiple files:
+https://stackoverflow.com/questions/28292601/serilog-multiple-log-files
